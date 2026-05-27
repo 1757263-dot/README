@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Dorothy M. Reynolds! (Dorothy M. Reynolds)
+# 👋 Hi there
 
 <p align="left">
   <a href="https://github.com/1757263-dot">
